@@ -32,3 +32,34 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+// Official Docs
+
+Noob.js | Next.js Starter for static websites
+Description
+
+Built With: Next.js, Tailwind CSS
+
+Feature Stack
+
+- Structured Hierarchy
+
+How to Use
+
+npx create-next-app {project-name} --use-npm --example "https://github.com/ubercoolchicken/testbench"
+
+Demo
+
+FAQ
+
+- Montserrat and Open Sans are used as default, import preferred fonts to \_style-guides.scss
+- Email hello@aerocreate.com for any feature requests
+
+License
+
+Roadmap
+
+Contribution
+
+Author
+This Boilerplate is made with love by aerocreate.com
