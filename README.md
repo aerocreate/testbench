@@ -35,31 +35,36 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 // Official Docs
 
-Noob.js | Next.js Starter for static websites
+# Noob.js | Next.js Starter for static websites
+
 Description
 
-Built With: Next.js, Tailwind CSS
+## Built With
 
-Feature Stack
+- Next.js
+- Tailwind CSS
+
+## Feature Stack
 
 - Structured Hierarchy
 
-How to Use
+## How to Use
 
-npx create-next-app {project-name} --use-npm --example "https://github.com/ubercoolchicken/testbench"
+npx create-next-app {project-name} --use-npm --example "https://github.com/aerocreate/testbench"
 
-Demo
+## Demo
 
-FAQ
+## FAQ
 
 - Montserrat and Open Sans are used as default, import preferred fonts to \_style-guides.scss
 - Email hello@aerocreate.com for any feature requests
 
-License
+## License
 
-Roadmap
+## Roadmap
 
-Contribution
+## Contribution
 
-Author
+## Author
+
 This Boilerplate is made with love by aerocreate.com
