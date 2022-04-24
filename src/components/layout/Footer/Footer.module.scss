@@ -1,0 +1,9 @@
+//Importing Style Guides, to modify go-to 'styles/_style-guides.scss'
+@import "../../../styles/_style-guides.scss";
+
+//Importing mixins, to modify breakpoints go-to mixins.scss
+@import "../../../styles/mixins.scss";
+
+.footerP {
+	font-size: 1em;
+}

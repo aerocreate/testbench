@@ -1,0 +1,24 @@
+//Importing Style Guides, to modify go-to 'styles/_style-guides.scss'
+@import "../../../styles/_style-guides.scss";
+
+//Importing mixins, to modify breakpoints go-to mixins.scss
+@import "../../../styles/mixins.scss";
+
+.nav {
+	flex: 1;
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	padding-top: 0.5em;
+	.navLogo {
+		font-weight: 700;
+	}
+	.navMenu {
+		display: flex;
+		.navItems {
+			font: 1rem $font-head;
+			color: $primary-color;
+			padding: 0 0.5rem;
+		}
+	}
+}

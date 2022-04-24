@@ -1,0 +1,16 @@
+//Importing mixins, to modify breakpoints go-to mixins.scss
+@import "../../styles/mixins.scss";
+
+.container {
+	padding: 0 0.5em;
+	@include for-tablet-up {
+		padding: 0 1em;
+	}
+	@include for-desktop-up {
+		padding: 0 2em;
+	}
+}
+
+.main {
+	min-height: 88vh;
+}
