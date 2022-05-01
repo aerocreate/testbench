@@ -19,12 +19,6 @@ npx create-next-app {project-name} --use-npm --example "https://github.com/aeroc
 
 cd {project-name}
 
-npm install --save-dev sass
-
-npm install -D tailwindcss postcss autoprefixer
-
-npx tailwindcss init -p
-
 npm run dev
 ```
 
